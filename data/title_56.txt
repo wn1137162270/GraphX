@@ -1,0 +1,30 @@
+214951 94.16449126478061 C4.5: programs for machine learning
+455254 80.2661513345214 Probabilistic reasoning in intelligent systems: networks of plausible inference
+517247 67.46365125249214 Adaptation in natural and artificial systems
+207703 56.88616161656008 Mining association rules between sets of items in large databases
+537573 45.64074265048258 Learning internal representations by error propagation
+167001 37.11901550250723 Principles of database and knowledge-base systems, Vol. I
+170603 35.17368546002554 A theory of the learnable
+318506 35.15387835777181 Transition network grammars for natural language analysis
+362019 23.080717668674513 An Interval Classifier for Database Mining Applications
+167063 20.738353340295223 Scientific discovery: computational explorations of the creative process
+251372 17.980190099967583 Knowledge Discovery in Databases
+357613 17.888365709055545 Efficient Similarity Search In Sequence Databases
+162828 13.560832607465567 The society of mind
+75216 12.16159775687539 Fast discovery of association rules
+376381 11.04871174112772 Set-Oriented Mining for Association Rules in Relational Databases
+358826 10.643814545948945 Knowledge Discovery in Databases: An Attribute-Oriented Approach
+176629 9.989694570068199 Data parallel algorithms
+146856 9.956714280914081 The connection machine
+170137 8.19853015928807 Direct methods for sparse matrices
+124843 7.132993097558879 Data Mining: the search for knowledge in databases.
+96304 6.92494918243488 Bayesian classification (AutoClass): theory and results
+173123 6.047875638530589 Parallel free-text search on the connection machine system
+375432 5.843780723301362 Clustering Categorical Data: An Approach Based on Dynamical Systems
+522919 5.4824535368679745 A retrieval technique for similar shapes
+509991 3.9609009301464897 The appeal of parallel distributed processing
+91449 3.4857090977425043 Database management systems
+366585 1.0987110003138285 Supporting Lists in a Data Model (A Timely Approach)
+212634 1.0246180862112788 A query language for list-based complex objects
+360553 0.9888330548767522 An Algebra for Pomsets
+212300 0.839355818770189 Reasoning about strings in databases
