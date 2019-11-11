@@ -1,104 +1,127 @@
-326368 232.0239837734279 A relational model of data for large shared data banks
-453387 110.09116444348112 Introduction to algorithms
-455254 80.2661513345214 Probabilistic reasoning in intelligent systems: networks of plausible inference
-329737 66.48035009183458 On the criteria to be used in decomposing systems into modules
-520215 48.66423234427099 Object-oriented modeling and design
-593112 44.151762543607816 The mythical man-month (anniversary ed.)
-146350 35.37638966949786 Intelligent information-sharing systems
-78479 28.396707376600087 Object-oriented software construction (2nd ed.)
-160709 26.82481007744064 Understanding computers and cognition
-316802 26.767845658715377 Office Information Systems and Computer Science
-577319 25.871604027410818 Structured Analysis and System Specification
-182928 22.805010194940856 Actors: a model of concurrent computation in distributed systems
-466031 21.005614961553892 Unified theories of cognition
-589756 13.962265762647545 Reasoning about knowledge
-290990 13.441604529360388 The unified software development process
-510415 10.619425040049599 The Z notation: a reference manual
-522925 9.924025786177523 Intelligence without representation
-212092 9.328360439457102 Agent-oriented programming
-448808 9.251409920833018 A Roadmap of Agent Research and Development
-149659 8.267465149180568 Semistructured messages are surprisingly useful for computer-supported coordination
-591581 7.214957057217121 Controlling cooperative problem solving in industrial multi-agent systems using joint intentions
-541854 7.209692025123179 The action workflow approach to workflow management technology
-599907 6.956235596717017 An overview of workflow management: from process modeling to workflow automation infrastructure
-179606 6.492781335616342 Extended person-machine interface
-88121 5.8714928228908665 Coalitions among computationally bounded agents
-111521 5.84585731303858 A Meta-Model for the Analysis and Design of Organizations in Multi-Agent Systems
-184477 5.722591907432337 The hidden messages in computer networks
-78858 5.59601008665922 A scalable comparison-shopping agent for the World-Wide Web
-164485 5.383762969354632 A blackboard architecture for control
-158300 5.378546713178574 The practical guide to structured systems design: 2nd edition
-470778 5.179097974137448 Knowledge and common knowledge in a distributed environment
-468425 5.142439172121881 Systematic software development using VDM (2nd ed.)
-164558 4.969039202597624 A logical design methodology for relational databases using the extended entity-relationship model
-453526 4.8615791352287685 Practical planning: extending the classical AI planning paradigm
-179100 4.548242042918545 An architecture for object management in OIS
-604857 4.3531194509270215 Hidden order: how adaptation builds complexity
-473425 4.246917133579516 Probabilistic reasoning in expert systems: theory and algorithms
-618394 4.1454565365108085 The Rational Unified Process: An Introduction, Second Edition, 2nd edition
-91053 4.10598372248576 Readings in agents
-88001 4.040593528454468 COLLAGEN: when agents collaborate with people
-85908 3.8985996519833286 Software agents
-85603 3.637963487681724 Bayesian learning in negotiation
-486255 3.629637725363761 Distributed Artificial Intelligence
-164958 3.46110437453914 Planning for conjunctive goals
-150953 3.146219819455985 Universal subgoaling and chunking: the automatic generation and learning of goal hierarchies
-441985 2.775041147063919 Organization Self-Design of Distributed Production Systems
-296488 2.7389635188111643 A methodology for agent-oriented analysis and design
-596305 2.5327073607201678 Multiagent negotiation under time constraints
-540755 2.4602767863523076 Social conceptions of knowledge and action: DAI foundations and open systems semantics
-253099 2.4523756881200347 Database Systems Concepts, 3rd edition
-280020 2.3597825662496574 Industrial and practical applications of DAI
-528260 2.3459124941154976 Open information systems semantics for distributed artificial intelligence
-611059 2.3119657270164904 The Design of Intelligent Agents: A Layered Approach, 1st edition
-441607 2.120973031898083 Trends in Cooperative Distributed Problem Solving
-595047 2.0378613252851725 Saving energy using market-based control
-86843 2.016679948585509 Entertaining agents: a sociological case study
-91401 1.9081481348816378 Increasing believability in animated pedagogical agents
-613407 1.903281059472131 Architecture of Integrated Information Systems: Foundations of Enterprise Modelling
-438693 1.8442455551656007 Managing Object-Oriented Framework Reuse
-95982 1.7587157627394778 Designing behaviors for information agents
-329038 1.5395316519856075 Designing an aspect-oriented framework in an object-oriented environment
-565304 1.429247071332507 Research Commentary: Information Systems and Conceptual Modeling--A Research Agenda
-614591 1.4214984649745244 Understanding ontological engineering
-313625 1.3979817370651733 A Knowledge-based Approach to Handling Exceptions inWorkflow Systems
-456625 1.3741314158038622 Concurrent programming using actors
-94759 1.3464030241956448 Ant-like agents for load balancing in telecommunications networks
-212120 1.301100141658071 Synthesis of extended transaction models using ACTA
-165496 1.2773224003871606 Elementary decision theory
-170588 1.2515312534336658 Rational interaction: cooperation among intelligent agents
-626189 1.174671134288143 A collaborative approach to ontology design
-586897 1.1489293429988978 Representing and executing agent-based systems
-75470 1.118026114939322 Class Library Support for Workflow Environments and Applications
-329820 1.0962250454106393 Agent-oriented technology in support of e-business
-512915 1.057505469007738 Modeling digital circuits for troubleshooting
-441047 1.057257401016763 Incremental Maintenance of Materialized Object-Oriented Views in MultiView: Strategies and Performance Evaluation
-326485 1.0194785858840436 Enterprise frameworks characteristics, criteria, and challenges
-526432 0.9702408655927209 A decision-theoretic model of coordination and communication in autonomous systems
-76629 0.9657687581206804 The AARIA agent architecture: an example of requirements-driven agent-based system design
-442573 0.9438496908891141 Intelligent Agents in the Nuclear Industry
-454046 0.9259050715112697 Negotiating task decomposition and allocation using partial global planning
-176509 0.9193469931302322 Action based model of information system
-207682 0.8923548128229059 Research directions in concurrent object-oriented programming
-582416 0.881516318948362 APRIL&mdash;Agent PRocess Interaction Language
-624779 0.8713555937918364 Developing Business Objects
-297636 0.8607150447968166 Business process modeling and analysis using Gert networks
-593197 0.8420674152358973 Industrial applications of distributed AI
-473212 0.8369887090822923 Conflict resolution strategies for nonhierarchical distributed agents
-600432 0.7942349081269338 Trigger modelling for workflow analysis
-467421 0.7878072437810377 Deals among rational agents
-449797 0.7825033673148961 Creatures: Entertainment Software Agents with Artificial Life
-584179 0.7583467125065291 Integrated control and coordinated behavior: a case for agent models
-531117 0.7583467125065291 Distributing intelligence within an individual
-470502 0.7265506707563921 Communication-free interactions among rational agents: a probabilistic approach
-376873 0.7265506707563921 A Guide to Knowledge and Games
-291673 0.7087770013963716 On the evolution of complexity
-148633 0.7041001346810876 Organizational implications of office systems: toward a critical social action perspective
-526510 0.6925441847849232 A guide to Sybase and the SQL server
-445731 0.6781459546148147 Function-Class Decomposition: A Hybrid Software Engineering Method
-440630 0.6317675722235284 A Data/Knowledge Paradigm for the Modeling and Design of Operations Support Systems
-313221 0.6317675722235284 The GRITIKA Ontology for Modeling e-Service Applications: Formal Specification and Illustration
-586660 0.6196556939098888 On the complementarity of workflow management and business process modeling
-446570 0.5686583115366696 Workflow and End-User Quality of Service Issues in Web-Based Education
-225761 0.5686583115366696 The language of machines: an introduction to computability and formal languages
-90321 0.5686583115366696 Managing business workflows using a database approach: a formal model, a case study and a prototype
+326368 332.07111202313706 A relational model of data for large shared data banks
+453387 157.56170894974338 Introduction to algorithms
+455254 114.87635759887526 Probabilistic reasoning in intelligent systems: networks of plausible inference
+329737 95.14621473028603 On the criteria to be used in decomposing systems into modules
+520215 69.64791090775624 Object-oriented modeling and design
+593112 63.18969550990195 The mythical man-month (anniversary ed.)
+146350 50.63044287863543 Intelligent information-sharing systems
+78479 40.64117011951388 Object-oriented software construction (2nd ed.)
+160709 38.39148163632776 Understanding computers and cognition
+316802 38.30995455639312 Office Information Systems and Computer Science
+577319 37.027259766360736 Structured Analysis and System Specification
+182928 32.638371999197865 Actors: a model of concurrent computation in distributed systems
+466031 30.063090054623427 Unified theories of cognition
+589756 19.982697662378158 Reasoning about knowledge
+246736 19.509861251673225 Introduction to Multiagent Systems
+290990 19.237530926107315 The unified software development process
+510415 15.19844726715477 The Z notation: a reference manual
+522925 14.203196690995124 Intelligence without representation
+212092 13.350684589176145 Agent-oriented programming
+448808 13.2405535420547 A Roadmap of Agent Research and Development
+445730 13.132063871446078 The Gaia Methodology for Agent-Oriented Analysis and Design
+297727 11.911496725142326 Multiagent systems: a modern approach to distributed artificial intelligence
+149659 11.832338627466202 Semistructured messages are surprisingly useful for computer-supported coordination
+92579 10.677517471072877 KQML as an agent communication language
+591581 10.325996365655254 Controlling cooperative problem solving in industrial multi-agent systems using joint intentions
+541854 10.318461088336768 The action workflow approach to workflow management technology
+599907 9.955716010601895 An overview of workflow management: from process modeling to workflow automation infrastructure
+179606 9.292423495092612 Extended person-machine interface
+603191 9.057485501234188 Pricing the Internet
+160527 9.030315592139702 Computer systems and the design of organizational interaction
+315937 8.4706295503599 An agent-based approach for building complex software systems
+88121 8.403239696277167 Coalitions among computationally bounded agents
+111521 8.366550332852384 A Meta-Model for the Analysis and Design of Organizations in Multi-Agent Systems
+184477 8.190133741567497 The hidden messages in computer networks
+78858 8.008970719958969 A scalable comparison-shopping agent for the World-Wide Web
+164485 7.705204121692711 A blackboard architecture for control
+158300 7.6977386521287 The practical guide to structured systems design: 2nd edition
+470778 7.412289003829952 Knowledge and common knowledge in a distributed environment
+468425 7.359823181319842 Systematic software development using VDM (2nd ed.)
+164558 7.111654350803916 A logical design methodology for relational databases using the extended entity-relationship model
+453526 6.957858249690062 Practical planning: extending the classical AI planning paradigm
+179100 6.509412382200961 An architecture for object management in OIS
+604857 6.230154285474485 Hidden order: how adaptation builds complexity
+473425 6.0781582674444765 Probabilistic reasoning in expert systems: theory and algorithms
+618394 5.932948566502364 The Rational Unified Process: An Introduction, Second Edition, 2nd edition
+91053 5.876455349573634 Readings in agents
+88001 5.782869358615976 COLLAGEN: when agents collaborate with people
+85908 5.5796487100717655 Software agents
+85603 5.206628044253033 Bayesian learning in negotiation
+486255 5.194712271123018 Distributed Artificial Intelligence
+164958 4.953508511446314 Planning for conjunctive goals
+150953 4.50284792599804 Universal subgoaling and chunking: the automatic generation and learning of goal hierarchies
+446103 4.398136065343924 Rational Coordination in Multi-Agent Environments
+441985 3.971619591340763 Organization Self-Design of Distributed Production Systems
+296488 3.919985540678361 A methodology for agent-oriented analysis and design
+596305 3.6247931615759508 Multiagent negotiation under time constraints
+540755 3.521131027241179 Social conceptions of knowledge and action: DAI foundations and open systems semantics
+253099 3.509823030397383 Database Systems Concepts, 3rd edition
+280020 3.377304398292458 Industrial and practical applications of DAI
+528260 3.3574536475100336 Open information systems semantics for distributed artificial intelligence
+611059 3.3088692705123277 The Design of Intelligent Agents: A Layered Approach, 1st edition
+441607 3.03552185347031 Trends in Cooperative Distributed Problem Solving
+595047 2.9165729569457146 Saving energy using market-based control
+86843 2.8862583179138004 Entertaining agents: a sociological case study
+91401 2.730928340898468 Increasing believability in animated pedagogical agents
+613407 2.7239626164192536 Architecture of Integrated Information Systems: Foundations of Enterprise Modelling
+438693 2.639471413203557 Managing Object-Oriented Framework Reuse
+95982 2.5170617690790715 Designing behaviors for information agents
+290517 2.394947185123962 Distributed problem solving and planning
+294900 2.223156701749822 Multiagent systems and societies of agents
+329038 2.2033669940298046 Designing an aspect-oriented framework in an object-oriented environment
+565304 2.045528469145919 Research Commentary: Information Systems and Conceptual Modeling--A Research Agenda
+614591 2.03443871761214 Understanding ontological engineering
+313625 2.0007817401695434 A Knowledge-based Approach to Handling Exceptions inWorkflow Systems
+456625 1.9666473262415138 Concurrent programming using actors
+94759 1.9269626450020725 Ant-like agents for load balancing in telecommunications networks
+212120 1.8621254745619853 Synthesis of extended transaction models using ACTA
+165496 1.8280949366114776 Elementary decision theory
+170588 1.7911828264497869 Rational interaction: cooperation among intelligent agents
+626189 1.6811811584333982 A collaborative approach to ontology design
+586897 1.6443396857551493 Representing and executing agent-based systems
+75470 1.6001112006651386 Class Library Support for Workflow Environments and Applications
+329820 1.5689096615658324 Agent-oriented technology in support of e-business
+512915 1.5134944730837148 Modeling digital circuits for troubleshooting
+441047 1.5131394399001592 Incremental Maintenance of Materialized Object-Oriented Views in MultiView: Strategies and Performance Evaluation
+326485 1.4590706624056347 Enterprise frameworks characteristics, criteria, and challenges
+526432 1.3886019795362379 A decision-theoretic model of coordination and communication in autonomous systems
+76629 1.3822015304224187 The AARIA agent architecture: an example of requirements-driven agent-based system design
+442573 1.3508311138313311 Intelligent Agents in the Nuclear Industry
+606613 1.3281944424107386 A speech-act-based office modeling approach
+454046 1.3251488993691762 Negotiating task decomposition and allocation using partial global planning
+176509 1.3157630231967692 Action based model of information system
+558500 1.2905253512903132 Research Commentary: An Agenda for Information Technology Research in Heterogeneous and Distributed Environments
+292214 1.2855987221075518 A multi-agent framework for the coordination and integration of information systems
+207682 1.277132002451364 Research directions in concurrent object-oriented programming
+224858 1.2767856624930043 DAI approaches to coordination
+582416 1.261620025391741 APRIL&mdash;Agent PRocess Interaction Language
+624779 1.2470780662079708 Developing Business Objects
+297636 1.231849386483364 Business process modeling and analysis using Gert networks
+593197 1.2051610287361028 Industrial applications of distributed AI
+473212 1.1978924198076686 Conflict resolution strategies for nonhierarchical distributed agents
+248962 1.1830290395386724 A goal-driven approach to enterprise component identification and specification
+600432 1.136703477201091 Trigger modelling for workflow analysis
+467421 1.127504248688846 Deals among rational agents
+243559 1.1263043785316003 Enterprise application integration and complex adaptive systems
+449797 1.119913377575001 Creatures: Entertainment Software Agents with Artificial Life
+584179 1.0853405412047457 Integrated control and coordinated behavior: a case for agent models
+531117 1.0853405412047457 Distributing intelligence within an individual
+308642 1.0825121191292768 The atoms, molecules and fibers of organizations
+561556 1.0610210541082072 A Formal Approach to Workflow Analysis
+470502 1.0398342673696557 Communication-free interactions among rational agents: a probabilistic approach
+376873 1.0398342673696557 A Guide to Knowledge and Games
+291673 1.0143967153841809 On the evolution of complexity
+148633 1.007703216265379 Organizational implications of office systems: toward a critical social action perspective
+526510 0.991164421136983 A guide to Sybase and the SQL server
+477327 0.9897468538149328 Multiagent compromise via negotiation
+445731 0.9705577742464535 Function-Class Decomposition: A Hybrid Software Engineering Method
+440630 0.9041813558950309 A Data/Knowledge Paradigm for the Modeling and Design of Operations Support Systems
+313221 0.9041813558950309 The GRITIKA Ontology for Modeling e-Service Applications: Formal Specification and Illustration
+586660 0.8868469198816111 On the complementarity of workflow management and business process modeling
+148820 0.858741493629726 Diplans: a new language for the study and implementation of coordination
+446570 0.8138598208777388 Workflow and End-User Quality of Service Issues in Web-Based Education
+225761 0.8138598208777388 The language of machines: an introduction to computability and formal languages
+90321 0.8138598208777388 Managing business workflows using a database approach: a formal model, a case study and a prototype
+446676 0.7978624330141746 SEAM: A State-Entity-Activity-Model for a Well-Defined Workflow Development Methodology
+282470 0.7978624330141746 Experiments in designing computational economies for mobile users
+301534 0.7978624330141746 A Helix-Spindle model for ontological engineering

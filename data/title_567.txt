@@ -1,104 +1,116 @@
-311413 77.33607069800352 Pattern Classification (2nd Edition)
-164845 55.67100410880375 Algorithms for clustering data
-531457 37.5059936302702 Ten lectures on wavelets
-174901 33.543509079356 A computational approach to edge detection
-321817 19.911311887576066 Normalized Cuts and Image Segmentation
-171678 17.227423370461974 Visual reconstruction
-472401 12.61442194217323 Fronts propagating with curvature-dependent speed: algorithms based on Hamilton-Jacobi formulations
-546503 11.864178846660172 Layered representation of motion video using robust maximum-likelihood estimation of mixture models and MDL encoding
-150387 10.764289403888283 Regularization of inverse visual problems involving discontinuities
-148144 9.677148657235865 Eigen values and expanders
-181751 9.18252849725191 Computational vision and regularization theory
-532431 8.647143073628614 Nonlinear total variation based noise removal algorithms
-470496 8.07021624863277 Partitioning sparse matrices with eigenvectors of graphs
-588538 8.056117280236325 Active shape models&mdash;their training and application
-162235 7.816603711487006 An investigation of smoothness constraints for the estimation of displacement vector fields from image sequences
-452745 7.731955270466343 Approximate counting, uniform generation and rapidly mixing Markov chains
-586188 6.760803231811278 Semidefinite programming
-162433 6.4771371243699845 The Computation of Visible-Surface Representations
-318311 6.476305838529714 Independent component analysis: algorithms and applications
-600250 5.580694419572036 Pyramid-based texture analysis/synthesis
-534288 5.574899684391514 Texture classification and segmentation using multiresolution simultaneous autoregressive models
-457697 5.4153748681446086 Boundary Detection by Constrained Optimization
-585594 5.29099608243418 Markov random field modeling in computer vision
-583661 5.283604597034609 Shape Modeling with Front Propagation: A Level Set Approach
-442457 4.862019613247525 Seeded Region Growing
-448111 4.811527538138502 An Optimal Graph Theoretic Approach to Data Clustering: Theory and Its Application to Image Segmentation
-586775 4.80005265581632 Region Competition: Unifying Snakes, Region Growing, and Bayes/MDL for Multiband Image Segmentation
-93065 4.720923297579396 Filters, Random Fields and Maximum Entropy (FRAME): Towards a Unified Theory for Texture Modeling
-537608 4.7188606374316455 On active contour models and balloons
-620296 4.626625011472774 Fast Approximate Energy Minimization via Graph Cuts
-143918 4.618273812929882 Constraints on deformable models: recovering 3D shape and nongrid motion
-536489 4.431019436292931 Reaction-diffusion textures
-96013 4.4299077217477265 Geodesic Active Contours
-457945 4.326270786566427 Automatic extraction of deformable part models
-152750 3.9166123126197183 Optimum uniform piecewise linear approximation of planar curves
-469649 3.6240155698864296 Using Dynamic Programming for Solving Variational Problems in Vision
-116391 3.610225820584759 Textons, Contours and Regions: Cue Integration in Image Segmentation
-442847 3.6067853069167852 Pairwise Data Clustering by Deterministic Annealing
-167632 3.5488009250702386 Local linear transforms for texture measurements
-527582 3.4654161375898354 Parallel and Deterministic Algorithms from MRFs: Surface Reconstruction
-210918 3.3582392813804076 A level set approach for computing solutions to incompressible two-phase flow
-146551 3.11438359721186 Image analysis using multigrid relaxation methods
-449175 3.0978626877631066 Constrained Clustering as an Optimization Method
-183670 2.8018683946624767 3-D motion estimation, understanding, and prediction from nosiy image sequences
-485329 2.7993742908119814 Multiresolution elastic matching
-154632 2.766243741547705 On the estimation of optical flow: relations between different approaches and some new results
-465035 2.6178048245493657 A physical approach to color image understanding
-625756 2.561321587518202 Finite element solution of boundary value problems: theory and computation
-183292 2.5426196163315287 Finding trajectories of feature points in a monocular image sequence
-442307 2.531784382722899 Multimodal Estimation of Discontinuous Optical Flow using Markov Random Fields
-113556 2.5286780044702977 Segmentation Using Eigenvectors: A Unifying View
-528700 2.370340063939471 A common framework for image segmentation
-295045 2.1488534882293973 Geodesic Active Contours and Level Sets for the Detection and Tracking of Moving Objects
-540955 2.145178968350339 Object and Texture Classification Using Higher Order Statistics
-524831 2.0649202875091337 Unsupervised Texture Segmentation Using Markov Random Field Models
-163175 2.0417910286516023 Automatic Pattern Recognition: A Study of the Probability of Error
-527541 2.0007043836031673 The complexity of multiway cuts (extended abstract)
-530413 1.9795579267472496 Bayesian Estimation of Motion Vector Fields
-583975 1.975275462666324 A variational level set approach to multiphase motion
-552491 1.9446551095927673 Geodesic active contours
-524098 1.8524714221664988 Multidimensional Orientation Estimation with Applications to Texture Analysis and Optical Flow
-8442 1.849046543053267 Image Analysis, Random Fields and Markov Chain Monte Carlo Methods: A Mathematical Introduction (Stochastic Modelling and Applied Probability)
-229870 1.8255074991675564 Model-based object tracking in monocular image sequences of road traffic scenes
-159936 1.7256576469724674 Computational-geometric methods for polygonal approximations of a curve
-463002 1.6705573688724475 One-Dimensional Regularization with Discontinuities
-462516 1.6404612739042868 Multiresolution Feature Extraction and Selection for Texture Segmentation
-479617 1.5912648691903266 Hierarchical Construction of Orientation and Velocity Selective Filters
-450091 1.5655449909989019 Fast Surface Interpolation Using Hierarchical Basis Functions
-595390 1.5203270293677567 A new approach to the minimum cut problem
-452987 1.5171668507990048 Modeling Light Reflection for Computer Color Vision
-123459 1.4448298028296993 Empirical Evaluation of Dissimilarity Measures for Color and Texture
-443361 1.4434894808399452 Figure-Ground Discrimination: A Combinatorial Optimization Approach
-334830 1.4426295380499887 Probability Models for Clutter in Natural Images
-102272 1.303123462380736 Motion Competition: A Variational Approach to Piecewise Parametric Motion Segmentation
-319954 1.282707568610047 A Level Set Model for Image Classification
-623989 1.261797658756042 Self-Organization in Vision: Stochastic Clustering for Image Segmentation, Perceptual Grouping, and Image Database Organization
-223618 1.2435873143518101 Tracking with Kalman snakes
-597786 1.2408001854138613 Segmentation of range images as the search for geometric parametric models
-481483 1.1798811340982889 The theory and practice of Bayesian image labeling
-275773 1.1531834159868863 An Active Contour Model without Edges
-122547 1.131967841504974 Geometric Level Set Methods in Imaging,Vision,and Graphics
-111548 1.1109196582728464 Geodesic Active Regions for Supervised Texture Segmentation
-114116 1.1072224470231953 A Statistical Approach to Snakes for Bimodal and Trimodal Imagery
-211801 1.0539956628944738 Multiscale minimization of global energy functions in some visual recovery problems
-298402 1.0538736308359447 Depth Discontinuities by Pixel-to-Pixel Stereo
-471357 1.0353574553123894 Comparison of the Efficiency of Deterministic and Stochastic Algorithms for Visual Reconstruction
-538399 1.0269250996071275 Bayesian modeling of uncertainty in low-level vision
-241450 0.9280481652236457 A Theoretical Framework for Convex Regularizers in PDE-Based Computation of Image Motion
-467834 0.9102906351383282 O(log n) bimodality analysis
-104656 0.878490120419872 Approximations of Shape Metrics and Application to Shape Warping and Empirical Shape Statistics
-281777 0.8778060968203855 A Comparison of Measures for Detecting Natural Shapes in Cluttered Backgrounds
-444691 0.8768164246586205 Region Tracking via Level Set PDEs without Motion Computation
-154918 0.8748552521514641 Using polygons to recognize and locate partially occluded objects
-460378 0.864233751005052 A structure feature for some image processing applications based on spiral functions
-468102 0.7960095019965144 Shape Reconstruction on a Varying Mesh
-289084 0.7814701246231058 Image Sequence Analysis via Partial Differential Equations
-86845 0.760658734801688 Direct incremental model-based image motion segmentation for video analysis
-257287 0.7153622852019722 Morphing Active Contours
-276999 0.6828002554369363 A Level Set Model for Image Classification
-109801 0.6721540765543325 Natural Image Statistics for Natural Image Segmentation
-605692 0.6512357238787523 Cluster Expansions for the Deterministic Computation of Bayesian Estimators Based on Markov Random Fields
-221208 0.6181039829278393 Combinatorial properties and complexity of a max-cut approximation
-268667 0.598624177275395 Geodesic Active Contours Applied to Texture Feature Space
-333913 0.5740188318429454 An Analysis of Edge Detection by Using the Jensen-Shannon Divergence
+311413 77.41438758264948 Pattern Classification (2nd Edition)
+164845 55.727381159868834 Algorithms for clustering data
+531457 37.5439752932919 Ten lectures on wavelets
+174901 33.577478003655855 A computational approach to edge detection
+321817 19.93147572447875 Normalized Cuts and Image Segmentation
+171678 17.2448692804581 Visual reconstruction
+472401 12.627196346396305 Fronts propagating with curvature-dependent speed: algorithms based on Hamilton-Jacobi formulations
+546503 11.876193492837134 Layered representation of motion video using robust maximum-likelihood estimation of mixture models and MDL encoding
+150387 10.775190211285548 Regularization of inverse visual problems involving discontinuities
+148144 9.686948536234762 Eigen values and expanders
+181751 9.19182748307556 Computational vision and regularization theory
+532431 8.655899884008328 Nonlinear total variation based noise removal algorithms
+470496 8.078388815318764 Partitioning sparse matrices with eigenvectors of graphs
+588538 8.064275569143897 Active shape models&mdash;their training and application
+162235 7.824519449197372 An investigation of smoothness constraints for the estimation of displacement vector fields from image sequences
+452745 7.739785286182677 Approximate counting, uniform generation and rapidly mixing Markov chains
+586188 6.7676497788628796 Semidefinite programming
+162433 6.483696407721556 The Computation of Visible-Surface Representations
+318311 6.482864280052671 Independent component analysis: algorithms and applications
+600250 5.586345891093116 Pyramid-based texture analysis/synthesis
+534288 5.580545287685743 Texture classification and segmentation using multiresolution simultaneous autoregressive models
+457697 5.420858923450693 Boundary Detection by Constrained Optimization
+585594 5.29635418152184 Markov random field modeling in computer vision
+583661 5.2889552108944295 Shape Modeling with Front Propagation: A Level Set Approach
+442457 4.866943295376192 Seeded Region Growing
+448111 4.816400087826819 An Optimal Graph Theoretic Approach to Data Clustering: Theory and Its Application to Image Segmentation
+586775 4.804913585092235 Region Competition: Unifying Snakes, Region Growing, and Bayes/MDL for Multiband Image Segmentation
+93065 4.725704093939774 Filters, Random Fields and Maximum Entropy (FRAME): Towards a Unified Theory for Texture Modeling
+537608 4.7236393449722085 On active contour models and balloons
+620296 4.631310313609968 Fast Approximate Energy Minimization via Graph Cuts
+143918 4.622950657954542 Constraints on deformable models: recovering 3D shape and nongrid motion
+536489 4.435506652089183 Reaction-diffusion textures
+96013 4.434393811730126 Geodesic Active Contours
+457945 4.330651925239244 Automatic extraction of deformable part models
+613372 4.025119478786468 Scale-Space Theory in Computer Vision
+152750 3.9205785973290643 Optimum uniform piecewise linear approximation of planar curves
+469649 3.627685546997761 Using Dynamic Programming for Solving Variational Problems in Vision
+116391 3.61388183305843 Textons, Contours and Regions: Cue Integration in Image Segmentation
+442847 3.6104378352425077 Pairwise Data Clustering by Deterministic Annealing
+167632 3.5523947336277684 Local linear transforms for texture measurements
+527582 3.4689255038331464 Parallel and Deterministic Algorithms from MRFs: Surface Reconstruction
+155382 3.427548005222676 A note on the gradient of a multi-image
+210918 3.3616401114980956 A level set approach for computing solutions to incompressible two-phase flow
+146551 3.1175374789480887 Image analysis using multigrid relaxation methods
+449175 3.1009998390636166 Constrained Clustering as an Optimization Method
+183670 2.8047057977252057 3-D motion estimation, understanding, and prediction from nosiy image sequences
+485329 2.8022091681394126 Multiresolution elastic matching
+154632 2.76904506814801 On the estimation of optical flow: relations between different approaches and some new results
+465035 2.620455829657583 A physical approach to color image understanding
+625756 2.563915393041296 Finite element solution of boundary value problems: theory and computation
+183292 2.5451944826958726 Finding trajectories of feature points in a monocular image sequence
+442307 2.534348276435892 Multimodal Estimation of Discontinuous Optical Flow using Markov Random Fields
+113556 2.5312387524084263 Segmentation Using Eigenvectors: A Unifying View
+528700 2.3727404658177123 A common framework for image segmentation
+295045 2.1510295945306326 Geodesic Active Contours and Level Sets for the Detection and Tracking of Moving Objects
+540955 2.1473513535296336 Object and Texture Classification Using Higher Order Statistics
+524831 2.0670113961276653 Unsupervised Texture Segmentation Using Markov Random Field Models
+163175 2.043858714674681 Automatic Pattern Recognition: A Study of the Probability of Error
+527541 2.0027304619002297 The complexity of multiway cuts (extended abstract)
+530413 1.9815625903977274 Bayesian Estimation of Motion Vector Fields
+583975 1.977275789540413 A variational level set approach to multiphase motion
+542351 1.9719490712889132 Hands: a pattern theoretic study of biological shapes
+448778 1.9566848853268595 Finite-Element Methods for Active Contour Models and Balloons for 2-D and 3-D Images
+552491 1.9466244277714588 Geodesic active contours
+524098 1.8543473875390646 Multidimensional Orientation Estimation with Applications to Texture Analysis and Optical Flow
+8442 1.8509190401107243 Image Analysis, Random Fields and Markov Chain Monte Carlo Methods: A Mathematical Introduction (Stochastic Modelling and Applied Probability)
+229870 1.8273561586474378 Model-based object tracking in monocular image sequences of road traffic scenes
+243859 1.7641413765049738 Signal Processing for Computer Vision
+159936 1.7274051902553957 Computational-geometric methods for polygonal approximations of a curve
+463002 1.6722491130685464 One-Dimensional Regularization with Discontinuities
+462516 1.6421225403119921 Multiresolution Feature Extraction and Selection for Texture Segmentation
+479617 1.5928763152604044 Hierarchical Construction of Orientation and Velocity Selective Filters
+450091 1.5671303909986887 Fast Surface Interpolation Using Hierarchical Basis Functions
+595390 1.5218666379295633 A new approach to the minimum cut problem
+452987 1.5187032591033096 Modeling Light Reflection for Computer Color Vision
+123459 1.4462929566721427 Empirical Evaluation of Dissimilarity Measures for Color and Texture
+443361 1.4449512773617788 Figure-Ground Discrimination: A Combinatorial Optimization Approach
+334830 1.4440904637228162 Probability Models for Clutter in Natural Images
+102272 1.3044431126934761 Motion Competition: A Variational Approach to Piecewise Parametric Motion Segmentation
+319954 1.2840065441046469 A Level Set Model for Image Classification
+623989 1.2630754591510638 Self-Organization in Vision: Stochastic Clustering for Image Segmentation, Perceptual Grouping, and Image Database Organization
+223618 1.244846673449916 Tracking with Kalman snakes
+597786 1.2420567220352938 Segmentation of range images as the search for geometric parametric models
+481483 1.1810759790631433 The theory and practice of Bayesian image labeling
+275773 1.1543512246400847 An Active Contour Model without Edges
+105524 1.1537725820987559 Geodesic active regions and level set methods for motion estimation and tracking
+122547 1.133114165517378 Geometric Level Set Methods in Imaging,Vision,and Graphics
+111548 1.1120446671586435 Geodesic Active Regions for Supervised Texture Segmentation
+114116 1.1083437118078978 A Statistical Approach to Snakes for Bimodal and Trimodal Imagery
+211801 1.0550630258468867 Multiscale minimization of global energy functions in some visual recovery problems
+298402 1.054940870208629 Depth Discontinuities by Pixel-to-Pixel Stereo
+471357 1.0364059436783382 Comparison of the Efficiency of Deterministic and Stochastic Algorithms for Visual Reconstruction
+538399 1.0279650486741034 Bayesian modeling of uncertainty in low-level vision
+241450 0.9289879833505007 A Theoretical Framework for Convex Regularizers in PDE-Based Computation of Image Motion
+467834 0.911212470525399 O(log n) bimodality analysis
+104656 0.8793797519825125 Approximations of Shape Metrics and Application to Shape Warping and Empirical Shape Statistics
+281777 0.878695035684304 A Comparison of Measures for Detecting Natural Shapes in Cluttered Backgrounds
+444691 0.8777043612988699 Region Tracking via Level Set PDEs without Motion Computation
+154918 0.8757412027466555 Using polygons to recognize and locate partially occluded objects
+460378 0.8651089453920142 A structure feature for some image processing applications based on spiral functions
+522238 0.8547919928029807 Computing oriented texture fields
+312787 0.84011018771454 Binary Partitioning, Perceptual Grouping, and Restoration with Semidefinite Programming
+468102 0.7968156068811082 Shape Reconstruction on a Varying Mesh
+289084 0.7822615057348171 Image Sequence Analysis via Partial Differential Equations
+34667 0.7689069939259287 Dynamical Statistical Shape Priors for Level Set-Based Tracking
+86845 0.7614290405833333 Direct incremental model-based image motion segmentation for video analysis
+257287 0.716086720062246 Morphing Active Contours
+579646 0.7102856366927742 A Multiphase Dynamic Labeling Model for Variational Recognition-driven Image Segmentation
+276999 0.6834917152998263 A Level Set Model for Image Classification
+109801 0.672834755218282 Natural Image Statistics for Natural Image Segmentation
+605692 0.6518952188932262 Cluster Expansions for the Deterministic Computation of Bayesian Estimators Based on Markov Random Fields
+221208 0.6187299260083872 Combinatorial properties and complexity of a max-cut approximation
+98931 0.6169264942397236 Information-Theoretic Active Polygons for Unsupervised Texture Segmentation
+566842 0.610500742648612 Motion Competition: Variational Integration of Motion Segmentation and Shape Regularization
+268667 0.5992303934978487 Geodesic Active Contours Applied to Texture Feature Space
+333913 0.5746001306629179 An Analysis of Edge Detection by Using the Jensen-Shannon Divergence

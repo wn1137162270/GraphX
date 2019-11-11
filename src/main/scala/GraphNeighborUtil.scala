@@ -16,6 +16,7 @@ class GraphNeighborUtil {
 
 	def getSecondNeighborIds(firstIds:HashSet[Long] , graph:Graph[Int,Int]):HashSet[Long]={
 		var secondIds=new HashSet[Long]()
+		secondIds=secondIds++firstIds
 		firstIds.foreach(id=>{
 			val secondNeighbors=getFirstNeighborIds(id,graph)
 			secondNeighbors.foreach(secondId=>secondIds+=secondId)

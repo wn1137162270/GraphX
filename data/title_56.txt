@@ -1,30 +1,37 @@
-214951 94.16449126478061 C4.5: programs for machine learning
-455254 80.2661513345214 Probabilistic reasoning in intelligent systems: networks of plausible inference
-517247 67.46365125249214 Adaptation in natural and artificial systems
-207703 56.88616161656008 Mining association rules between sets of items in large databases
-537573 45.64074265048258 Learning internal representations by error propagation
-167001 37.11901550250723 Principles of database and knowledge-base systems, Vol. I
-170603 35.17368546002554 A theory of the learnable
-318506 35.15387835777181 Transition network grammars for natural language analysis
-362019 23.080717668674513 An Interval Classifier for Database Mining Applications
-167063 20.738353340295223 Scientific discovery: computational explorations of the creative process
-251372 17.980190099967583 Knowledge Discovery in Databases
-357613 17.888365709055545 Efficient Similarity Search In Sequence Databases
-162828 13.560832607465567 The society of mind
-75216 12.16159775687539 Fast discovery of association rules
-376381 11.04871174112772 Set-Oriented Mining for Association Rules in Relational Databases
-358826 10.643814545948945 Knowledge Discovery in Databases: An Attribute-Oriented Approach
-176629 9.989694570068199 Data parallel algorithms
-146856 9.956714280914081 The connection machine
-170137 8.19853015928807 Direct methods for sparse matrices
-124843 7.132993097558879 Data Mining: the search for knowledge in databases.
-96304 6.92494918243488 Bayesian classification (AutoClass): theory and results
-173123 6.047875638530589 Parallel free-text search on the connection machine system
-375432 5.843780723301362 Clustering Categorical Data: An Approach Based on Dynamical Systems
-522919 5.4824535368679745 A retrieval technique for similar shapes
-509991 3.9609009301464897 The appeal of parallel distributed processing
-91449 3.4857090977425043 Database management systems
-366585 1.0987110003138285 Supporting Lists in a Data Model (A Timely Approach)
-212634 1.0246180862112788 A query language for list-based complex objects
-360553 0.9888330548767522 An Algebra for Pomsets
-212300 0.839355818770189 Reasoning about strings in databases
+214951 134.7675650544956 C4.5: programs for machine learning
+455254 114.87635759887526 Probabilistic reasoning in intelligent systems: networks of plausible inference
+517247 96.55350851329447 Adaptation in natural and artificial systems
+207703 81.41507890488334 Mining association rules between sets of items in large databases
+164845 79.67595393029474 Algorithms for clustering data
+362949 79.52277827075577 Fast Algorithms for Mining Association Rules in Large Databases
+537573 65.32071348411733 Learning internal representations by error propagation
+167001 53.124476852178205 Principles of database and knowledge-base systems, Vol. I
+170603 50.34033402369492 A theory of the learnable
+318506 50.31198623669297 Transition network grammars for natural language analysis
+362019 33.032962618266055 An Interval Classifier for Database Mining Applications
+167063 29.680587080882844 Scientific discovery: computational explorations of the creative process
+251372 25.733123032289818 Knowledge Discovery in Databases
+357613 25.60170460258652 Efficient Similarity Search In Sequence Databases
+162828 19.408169322349274 The society of mind
+75216 17.40559413481721 Fast discovery of association rules
+376381 15.812839408369618 Set-Oriented Mining for Association Rules in Relational Databases
+358826 15.233353358387129 Knowledge Discovery in Databases: An Attribute-Oriented Approach
+157761 14.34564621913066 Toward memory-based reasoning
+176629 14.29718139782215 Data parallel algorithms
+146856 14.249980237338036 The connection machine
+170137 11.733679349323392 Direct methods for sparse matrices
+124843 10.208690116590459 Data Mining: the search for knowledge in databases.
+96304 9.91093911205493 Bayesian classification (AutoClass): theory and results
+173123 8.655677555410081 Parallel free-text search on the connection machine system
+375432 8.363578332061607 Clustering Categorical Data: An Approach Based on Dynamical Systems
+522919 7.84644937559867 A retrieval technique for similar shapes
+226571 7.074904557201346 A Weighted Nearest Neighbor Algorithm for Learning with Symbolic Features
+509991 5.668813866120057 The appeal of parallel distributed processing
+91449 4.9887226201875094 Database management systems
+298457 3.2586495931563375 CACTUS&mdash;clustering categorical data using summaries
+524926 2.702857268114442 Symbolic clustering using a new dissimilarity measure
+589662 2.124031143016042 Similarity-based queries
+366585 1.5724675429353183 Supporting Lists in a Data Model (A Timely Approach)
+212634 1.46642627953259 A query language for list-based complex objects
+360553 1.415210991544763 An Algebra for Pomsets
+212300 1.201280210731508 Reasoning about strings in databases

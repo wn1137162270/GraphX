@@ -27,7 +27,7 @@ object CollectNeighborIds {
 		val graphNeighborUtil=new GraphNeighborUtil
 
 		//获取二级邻居的ids
-		val id = 109133
+		val id = 56
 		val secondIds=graphNeighborUtil.getIds(id,graph)
 
 		val graphXUtil=new GraphXUtil
@@ -38,20 +38,22 @@ object CollectNeighborIds {
 
 		val firstNeighbor:VertexRDD[Double]=graph.pageRank(0.01).vertices
 
+//		secondIds.foreach(println)
 		val neighborRank = firstNeighbor.filter(pred=>{
 			var flag=false
 			secondIds.foreach(id=>if(id == pred._1) flag = true)
 			flag
-		}).sortBy(x=>x._2,false)          //按照rank从大到小排序
+		}).sortBy(x=>x._2,ascending=false)          //按照rank从大到小排序
         		.map(t=>t._1+" "+t._2)
-				.coalesce(1)
+				.coalesce(numPartitions=1)
+		neighborRank.foreach(println)
 		neighborRank.cache()
 		neighborRank.saveAsTextFile("/Users/wn/Project/GraphX/data/rank_"+id)
 
 		println("second neighbor rank:")
 		neighborRank.foreach(println)
 		println("top five rank:")
-		neighborRank.take(5).foreach(println)
+		neighborRank.take(10).foreach(println)
 
 		sc.stop()
 

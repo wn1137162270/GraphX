@@ -1,154 +1,162 @@
-453387 157.56170894974338 Introduction to algorithms
-320995 151.45493949424576 An axiomatic basis for computer programming
-162585 144.94517657091163 Compilers: principles, techniques, and tools
-178287 119.46435544712492 Graph-Based Algorithms for Boolean Function Manipulation
-250122 94.36726898702872 A Discipline of Programming, 1st edition
-157539 63.829304300275844 Combinatorial optimization: algorithms and complexity
-236674 45.91743885664002 The Java Language Specification, 1st edition
-246679 44.050115718278924 Java Virtual Machine Specification, 2nd edition
-184117 29.443782820116805 Theory of linear and integer programming
-173093 28.526921586269342 Implementation of logical query languages for databases
-606377 27.77594479114241 The SPLASH-2 programs: characterization and methodological considerations
-619700 24.625376754112498 Symbolic Model Checking
-293288 22.0030215657267 Model checking
-93781 21.87914890133973 The Model Checker SPIN
-307418 18.798721958066114 Report on the programming language Euclid
-202908 17.008415083831807 Dependence analysis for subscripted variables and its application to program transformations
-160970 16.42827186437991 Automatic translation of FORTRAN programs to vector form
-178572 16.323049989785126 Linear logic
-521898 15.042805655065186 The temporal logic of reactive and concurrent systems
-146000 11.82004608998481 Interprocedural dependence analysis and parallelization
-552238 11.504079692750757 Definitional interpreters for higher-order programming languages
-462110 9.32748184246897 Interprocedural slicing using dependence graphs
-382653 8.67716706263246 Protocol Verification as a Hardware Design Aid
-624394 8.462644814698887 CCured: type-safe retrofitting of legacy code
-188263 8.427473518981074 Parallelism exposure and exploitation in programs
-296394 8.265024118307219 Bandera: extracting finite-state models from Java source code
-91278 6.583051243129177 Making the future safe for the past: adding genericity to the Java programming language
-605112 6.508569900969316 Efficient context-sensitive pointer analysis for C programs
-221505 6.386306815946725 Refactoring object-oriented frameworks
-324595 6.143299443686839 Automatic predicate abstraction of C programs
-294940 5.770108397536032 Patterns in property specifications for finite-state verification
-565479 5.758738674242796 PVS: A Prototype Verification System
-86452 5.378022713389328 Lackwit: a program understanding tool based on type inference
-214165 5.2281576900121145 Larch: languages and tools for formal specification
-82419 4.930379616068499 Languages, automata, and logic
-521292 4.8835569000736045 Scanning polyhedra with DO loops
-484756 4.866560328273292 Polymorphic effect systems
-239549 4.850741707618598 Dynamic Logic
-292142 4.833354072952598 A theory of type qualifiers
-219070 4.3135061492608475 Set-based analysis of ML programs
-179752 4.243491719416871 Typestate: A programming language concept for enhancing software reliability
-331992 4.071184081045011 Ten Years of Hoare's Logic: A Survey&mdash;Part I
-227352 3.885156379831871 Interprocedural modification side effect analysis with pointer aliasing
-562586 3.8547001017219915 Boolean and Cartesian Abstraction for Model Checking C Programs
-520564 3.8431684188859054 Semantical interprocedural parallelization: an overview of the PIPS project
-515470 3.7596242688748562 Efficient and exact data dependence analysis
-529946 3.626894885282207 Practical dependence testing
-89782 3.397768330078658 Cayenne&mdash;a language with dependent types
-83144 3.359459601237887 Compatible genericity with run-time types for the Java programming language
-89186 3.077300867855102 Eraser: a dynamic data race detector for multi-threaded programs
-356007 2.999668241569954 Flexible Alias Protection
-242318 2.96593143298913 Ownership types for safe programming: preventing data races and deadlocks
-587671 2.9197308563268374 Using role components in implement collaboration-based designs
-87847 2.8026215482970356 Computability and complexity: from a programming perspective
-625818 2.7908027253925103 Object race detection
-76229 2.6617953902430256 Ownership types for flexible alias protection
-465675 2.564764213158207 A technique for summarizing data access and its use in parallelism enhancing transformations
-539330 2.5628506898678682 Islands: aliasing protection in object-oriented languages
-96129 2.4979495604519215 A type system for Java bytecode subroutines
-291500 2.4069187682865727 Fixing the Java memory model
-367738 2.362103215713657 Alias Types
-167433 2.2995030379706605 The complementation problem for Bu&uml;chi automata with applications to temporal logic
-536611 2.296893103680533 Detecting access anomalies in programs with critical sections
-314381 2.267209754168289 The pointer assertion logic engine
-627210 2.262073581741884 A parameterized type system for race-free Java programs
-598801 2.2554336601353193 Better static memory management: improving region-based analysis of higher-order languages
-588135 2.228031401901546 Aspect: detecting bugs with abstract dependences
-594112 2.181454881902153 Elements of Style: Analyzing a Software Design Feature with a Counterexample Detector
-219362 2.119681059929812 Automated assistance for program restructuring
-321808 2.118456799331485 Guava: a dialect of Java without data races
-370538 2.01922253222884 Types for Safe Locking
-570785 1.9925637703431018 Model Checking Guided Abstraction and Analysis
-485263 1.9829677322962873 Dependence of multi-dimensional array references
-360010 1.9693859543876249 An Optimizing Compiler for Efficient Model Checking
-270688 1.9357043986497828 Static Analyses for Eliminating Unnecessary Synchronization from Java Programs
-533953 1.9200818662494963 Uniform techniques for loop optimization
-322600 1.9139779052731025 Slicing Software for Model Construction
-537138 1.870330600033754 The Geneva convention on the treatment of object aliasing
-256682 1.8245816410757152 Alias Types for Recursive Data Structures
-510491 1.8146030631698622 Abstractions for recursive pointer data structures: improving the analysis and transformation of imperative programs
-119406 1.8120634330777168 The problem of nested monitor calls
-282578 1.787285645087299 Pointer analysis for multithreaded programs
-374337 1.7804042256060242 Simple Ownership Types for Object Containment
-177203 1.779297918728401 Efficient tests for top-down termination of logical rules
-156096 1.7543996177311698 ACE: an automatic complexity evaluator
-588561 1.7498656196627091 Subtypes vs. where clauses: constraining parametric polymorphism
-479689 1.7396580493629563 Introducing symbolic problem solving techniques in the dependence testing phases of a vectorizer
-377981 1.7230544952495552 Software Model Checking
-267356 1.6925999590213578 TVLA: A System for Implementing Static Analyses
-223940 1.6821504062982497 Graph types
-213061 1.66899233410906 Type inference with polymorphic recursion
-620954 1.6680479840499083 Role analysis
-555699 1.6074291052383014 Lambda - Upsilon - Omega: An Assistant Algorithms Analyzer
-367228 1.6010626332991855 Capabilities for Sharing: A Generalisation of Uniqueness and Read-Only
-518105 1.5902876514414523 Lively linear Lisp: &ldquo;look ma, no garbage!&rdquo;
-272049 1.5822716555211693 A Formal Study of Slicing for Multi-threaded Programs with JVM Concurrency Primitives
-618595 1.569023992321306 Representation independence, confinement and access control [extended abstract]
-485046 1.5606520904164438 Inference of monotonicity constraints in datalog programs
-314280 1.5234621969638764 Parametric polymorphism in Java: an approach to translation based on reflective features
-573296 1.5000373274806946 Towards Alias-Free Pointers
-361394 1.49305136168991 Predicate Classes
-278086 1.4899277496904046 Well-Abstracted Transition Systems
-284223 1.4808043623149203 Symbolic reachability analysis of FIFO-channel systems with nonregular sets of configurations
-561727 1.4808043623149203 Symbolic Verification with Periodic Sets
-230480 1.4759918335792441 Alias annotations for program understanding
-257848 1.4742617794411208 Object Types against Races
-254022 1.4645627328373039 Ownership, encapsulation and the disjointness of type and effect
-355006 1.4283648603113013 Static Detection of Pointer Errors: An Axiomatisation and a Checking Algorithm
-602630 1.4280995664398017 Toward reliable modular programs
-624022 1.4275272226214444 Encapsulating objects with confined types
-81757 1.4179486630018623 Componential set-based analysis
-297261 1.4164978480219674 Promises: limited specifications for analysis and manipulation
-74731 1.394666329619744 Data groups: specifying the modification of extended state
-256530 1.390842241814975 Termination Analysis for Offline Partial Evaluation of a Higher Order Functional Language
-264450 1.3895110587750163 BTA Algorithms to Ensure Termination of Off-Line Partial Evaluation
-322125 1.3772470359753222 Alias burying: unique variables without destructive reads
-78694 1.3720426969739963 Single and loving it: must-alias analysis for higher-order languages
-526420 1.3523306066784575 Experience with interprocedural analysis of array side effects
-517762 1.340675227881549 Subdomain dependence test for massive parallelism
-319192 1.3380892664513797 A generic type system for the Pi-calculus
-259935 1.323246812422094 Automatic Accurate Time-Bound Analysis for High-Level Languages
-622103 1.3135390557211108 Resource usage analysis
-558013 1.3125020633527733 The Engineering of a Model Checker: The Gnu i-Protocol Case Study Revisited
-264522 1.3034329307038266 Termination Analysis for Mercury
-267460 1.301721120279834 Analysis of Multithreaded Programs
-332781 1.297513284760481 Sealed calls in Java packages
-609450 1.2892137190350232 Types as models: model checking message-passing programs
-557895 1.2856487309987037 A type system for bounded space and functional in-place update
-361374 1.2371601160175965 Typestate Checking of Machine Code
-271188 1.1520261758502606 Algorithms for Guided Tree Automata
-217346 1.1478073488628668 The undecidability of the semi-unification problem
-216678 1.1454313600371828 Static dependent costs for estimating execution time
-267411 1.1423383188184852 Tractable Constraints in Finite Semilattices
-568389 1.1365719442680693 MONA Implementation Secrets
-264157 1.1356752912165384 Termination Analysis for Functional Programs using Term Orderings
-262077 1.1189632957082676 Checking Cleanness in Linked Lists
-558488 1.1091363599521558 Graphs and Decidable Transductions Based on Edge Constraints (Extended Abstract)
-95837 1.08233983779284 Automatic verification of pointer programs using monadic second-order logic
-90067 1.0807991298693431 Shape types
-616628 1.0415510032739033 The strength of non-size increasing computation
-516877 1.0140520468921246 Inference of inequality constraints in logic programs (extended abstracts)
-114747 0.9636798780473304 Cyclone User''s Manual, Version 0.1.3
-379450 0.947662298639418 Compile-Time Debugging of C Programs Working on Trees
-261367 0.9444902100448641 An Approach to Improve Locality Using Sandwich Types
-380887 0.9428900652430109 A Decidable Logic for Describing Linked Data Structures
-371769 0.9135175884898799 Fickle: Dynamic Object Re-classification
-206947 0.9102738622729397 Abstract description of pointer data structures: an approach for improving the analysis and optimization of imperative programs
-316766 0.9101742250669329 Automatic Accurate Live Memory Analysis for Garbage-Collected Languages
-620152 0.9101742250669329 Automatic time-bound analysis for a higher-order language
-356737 0.9101742250669329 Another Type System for In-Place Update
-377049 0.8783273800415843 A Language for Conveying the Aliasing Properties of Dynamic, Pointer-Based Data Structures
-512411 0.8782583796328621 Experimental classification facilities for Smalltalk
-570062 0.8344590533360441 Implementing "Object Ownership to Order"
-383471 0.8314071021105234 Connection Analysis: A Practical Interprocedural Heap Analysis for C
+453387 123.47832817097503 Introduction to algorithms
+320995 118.69256081723977 An axiomatic basis for computer programming
+162585 113.59097460114276 Compilers: principles, techniques, and tools
+178287 93.62210517365759 Graph-Based Algorithms for Boolean Function Manipulation
+250122 73.95396182390789 A Discipline of Programming, 1st edition
+157539 50.02189831431963 Combinatorial optimization: algorithms and complexity
+236674 35.984685757117205 The Java Language Specification, 1st edition
+246679 34.521297597539984 Java Virtual Machine Specification, 2nd edition
+184117 23.0745725080765 Theory of linear and integer programming
+173093 22.35604455433126 Implementation of logical query languages for databases
+606377 21.767517305067624 The SPLASH-2 programs: characterization and methodological considerations
+619700 19.298472785339484 Symbolic Model Checking
+293288 17.243379344866312 Model checking
+93781 17.14630252584383 The Model Checker SPIN
+307418 14.732226342336729 Report on the programming language Euclid
+202908 13.329194468558512 Dependence analysis for subscripted variables and its application to program transformations
+160970 12.874546474987328 Automatic translation of FORTRAN programs to vector form
+178572 12.792085950481823 Linear logic
+521898 11.788781079296381 The temporal logic of reactive and concurrent systems
+146000 9.26316133420925 Interprocedural dependence analysis and parallelization
+552238 9.015544049852991 Definitional interpreters for higher-order programming languages
+462110 7.309782761499237 Interprocedural slicing using dependence graphs
+382653 6.80014255554856 Protocol Verification as a Hardware Design Aid
+624394 6.63202525911351 CCured: type-safe retrofitting of legacy code
+188263 6.6044621359169495 Parallelism exposure and exploitation in programs
+296394 6.4771534100768235 Bandera: extracting finite-state models from Java source code
+626536 5.297523910279908 Lazy abstraction
+91278 5.1590209777727445 Making the future safe for the past: adding genericity to the Java programming language
+605112 5.100651265542957 Efficient context-sensitive pointer analysis for C programs
+221505 5.004835845437107 Refactoring object-oriented frameworks
+324595 4.814395260222057 Automatic predicate abstraction of C programs
+294940 4.521932029312465 Patterns in property specifications for finite-state verification
+565479 4.513021777999672 PVS: A Prototype Verification System
+86452 4.214661404355925 Lackwit: a program understanding tool based on type inference
+539150 4.185547169582348 A practical algorithm for exact array dependence analysis
+214165 4.0972148327157 Larch: languages and tools for formal specification
+82419 3.8638514160478934 Languages, automata, and logic
+521292 3.827157280588129 Scanning polyhedra with DO loops
+484756 3.813837367491667 Polymorphic effect systems
+239549 3.801440593900975 Dynamic Logic
+292142 3.7878142117443168 A theory of type qualifiers
+219070 3.380418576418451 Set-based analysis of ML programs
+179752 3.3255495044681345 Typestate: A programming language concept for enhancing software reliability
+331992 3.1905150518776733 Ten Years of Hoare's Logic: A Survey&mdash;Part I
+227352 3.0447284283864606 Interprocedural modification side effect analysis with pointer aliasing
+562586 3.0208603812042756 Boolean and Cartesian Abstraction for Model Checking C Programs
+520564 3.0118232050585663 Semantical interprocedural parallelization: an overview of the PIPS project
+515470 2.9463511303991075 Efficient and exact data dependence analysis
+529946 2.842333456978137 Practical dependence testing
+89782 2.6627710229026533 Cayenne&mdash;a language with dependent types
+619941 2.6595196877562817 Flow-sensitive type qualifiers
+83144 2.63274914878651 Compatible genericity with run-time types for the Java programming language
+89186 2.4116263334198713 Eraser: a dynamic data race detector for multi-threaded programs
+356007 2.350787015484638 Flexible Alias Protection
+314384 2.3419147996538774 The size-change principle for program termination
+242318 2.3243480745188916 Ownership types for safe programming: preventing data races and deadlocks
+587671 2.2881414986647637 Using role components in implement collaboration-based designs
+87847 2.196365002553059 Computability and complexity: from a programming perspective
+625818 2.187102799807689 Object race detection
+76229 2.086002030006239 Ownership types for flexible alias protection
+465675 2.0099604104607383 A technique for summarizing data access and its use in parallelism enhancing transformations
+539330 2.0084608160581254 Islands: aliasing protection in object-oriented languages
+96129 1.9575989473331208 A type system for Java bytecode subroutines
+291500 1.8862597234596223 Fixing the Java memory model
+367738 1.8511385665195998 Alias Types
+167433 1.8020799129772178 The complementation problem for Bu&uml;chi automata with applications to temporal logic
+536611 1.8000345535753097 Detecting access anomalies in programs with critical sections
+314381 1.7767722368822632 The pointer assertion logic engine
+627210 1.77274710927583 A parameterized type system for race-free Java programs
+598801 1.7675435199987777 Better static memory management: improving region-based analysis of higher-order languages
+588135 1.7460688542480087 Aspect: detecting bugs with abstract dependences
+594112 1.7095676582411705 Elements of Style: Analyzing a Software Design Feature with a Counterexample Detector
+219362 1.661156605119697 Automated assistance for program restructuring
+321808 1.6601971737138392 Guava: a dialect of Java without data races
+370538 1.5824290314362321 Types for Safe Locking
+570785 1.5615370306404739 Model Checking Guided Abstraction and Analysis
+485263 1.5540167851253428 Dependence of multi-dimensional array references
+360010 1.5433729856836518 An Optimizing Compiler for Efficient Model Checking
+270688 1.5169773453949773 Static Analyses for Eliminating Unnecessary Synchronization from Java Programs
+533953 1.5047342427056078 Uniform techniques for loop optimization
+322600 1.4999506763073378 Slicing Software for Model Construction
+537138 1.4657450541669863 The Geneva convention on the treatment of object aliasing
+256682 1.4298924031304134 Alias Types for Recursive Data Structures
+510491 1.4220723678848477 Abstractions for recursive pointer data structures: improving the analysis and transformation of imperative programs
+119406 1.4200821046410617 The problem of nested monitor calls
+282578 1.4006641898619858 Pointer analysis for multithreaded programs
+374337 1.3952713429662846 Simple Ownership Types for Object Containment
+177203 1.3944043498078358 Efficient tests for top-down termination of logical rules
+156096 1.3748919911140338 ACE: an automatic complexity evaluator
+588561 1.3713387769152556 Subtypes vs. where clauses: constraining parametric polymorphism
+479689 1.3633392843754584 Introducing symbolic problem solving techniques in the dependence testing phases of a vectorizer
+377981 1.3503273722980575 Software Model Checking
+267356 1.3264606901977787 TVLA: A System for Implementing Static Analyses
+223940 1.3182715603071185 Graph types
+213061 1.3079598115535402 Type inference with polymorphic recursion
+620954 1.3072197410929602 Role analysis
+555699 1.2597137965259104 Lambda - Upsilon - Omega: An Assistant Algorithms Analyzer
+367228 1.254724504923087 Capabilities for Sharing: A Generalisation of Uniqueness and Read-Only
+518105 1.2462803419679247 Lively linear Lisp: &ldquo;look ma, no garbage!&rdquo;
+272049 1.239998347557864 A Formal Study of Slicing for Multi-threaded Programs with JVM Concurrency Primitives
+618595 1.2296163879117357 Representation independence, confinement and access control [extended abstract]
+485046 1.2230554762681998 Inference of monotonicity constraints in datalog programs
+314280 1.1939104136829464 Parametric polymorphism in Java: an approach to translation based on reflective features
+573296 1.1755527572403577 Towards Alias-Free Pointers
+361394 1.170077979248575 Predicate Classes
+278086 1.1676300596993097 Well-Abstracted Transition Systems
+284223 1.1604802221665098 Symbolic reachability analysis of FIFO-channel systems with nonregular sets of configurations
+561727 1.1604802221665098 Symbolic Verification with Periodic Sets
+230480 1.1567087284037352 Alias annotations for program understanding
+257848 1.155352915534957 Object Types against Races
+254022 1.1477519440332218 Ownership, encapsulation and the disjointness of type and effect
+355006 1.1193843107252932 Static Detection of Pointer Errors: An Axiomatisation and a Checking Algorithm
+602630 1.1191764046042876 Toward reliable modular programs
+624022 1.1187278688635875 Encapsulating objects with confined types
+81757 1.1112213208831434 Componential set-based analysis
+297261 1.110084342810254 Promises: limited specifications for analysis and manipulation
+74731 1.0929753674652338 Data groups: specifying the modification of extended state
+256530 1.0899784974004232 Termination Analysis for Offline Partial Evaluation of a Higher Order Functional Language
+264450 1.0889352727657113 BTA Algorithms to Ensure Termination of Off-Line Partial Evaluation
+322125 1.079324174726403 Alias burying: unique variables without destructive reads
+78694 1.075245626179283 Single and loving it: must-alias analysis for higher-order languages
+526420 1.0597976092043924 Experience with interprocedural analysis of array side effects
+517762 1.0506634947191227 Subdomain dependence test for massive parallelism
+319192 1.048636922424113 A generic type system for the Pi-calculus
+259935 1.037005153374976 Automatic Accurate Time-Bound Analysis for High-Level Languages
+622103 1.0293973559239449 Resource usage analysis
+558013 1.0285846833220678 The Engineering of a Model Checker: The Gnu i-Protocol Case Study Revisited
+264522 1.0214773642601125 Termination Analysis for Mercury
+267460 1.020135848667846 Analysis of Multithreaded Programs
+439071 1.0175659876270864 Static prediction of heap space usage for first-order functional programs
+332781 1.016838242297545 Sealed calls in Java packages
+609450 1.0103340192400792 Types as models: model checking message-passing programs
+557895 1.0075402010871253 A type system for bounded space and functional in-place update
+361374 0.9695405300179128 Typestate Checking of Machine Code
+271188 0.9028225648946515 Algorithms for Guided Tree Automata
+217346 0.8995163447049979 The undecidability of the semi-unification problem
+216678 0.8976543242312165 Static dependent costs for estimating execution time
+267411 0.8952303624628752 Tractable Constraints in Finite Semilattices
+568389 0.890711356583597 MONA Implementation Secrets
+264157 0.8900086654253807 Termination Analysis for Functional Programs using Term Orderings
+262077 0.8769117697423038 Checking Cleanness in Linked Lists
+558488 0.8692105737709189 Graphs and Decidable Transductions Based on Edge Constraints (Extended Abstract)
+95837 0.848210612682123 Automatic verification of pointer programs using monadic second-order logic
+90067 0.8470031870971806 Shape types
+539075 0.817330009724695 Termination detection in logic programs using argument sizes (extended abstract)
+616628 0.816245123554004 The strength of non-size increasing computation
+516877 0.7946946771726968 Inference of inequality constraints in logic programs (extended abstracts)
+613630 0.7623581004025817 Cost recurrences for DML programs
+114747 0.7552188982111651 Cyclone User''s Manual, Version 0.1.3
+379450 0.7426662041599364 Compile-Time Debugging of C Programs Working on Trees
+261367 0.7401802943594108 An Approach to Improve Locality Using Sandwich Types
+380887 0.7389262891427796 A Decidable Logic for Describing Linked Data Structures
+371769 0.7159075979398662 Fickle: Dynamic Object Re-classification
+206947 0.7133655470000667 Abstract description of pointer data structures: an approach for improving the analysis and optimization of imperative programs
+316766 0.7132874630816872 Automatic Accurate Live Memory Analysis for Garbage-Collected Languages
+620152 0.7132874630816872 Automatic time-bound analysis for a higher-order language
+356737 0.7132874630816872 Another Type System for In-Place Update
+377049 0.6883296531704957 A Language for Conveying the Aliasing Properties of Dynamic, Pointer-Based Data Structures
+512411 0.6882755787689872 Experimental classification facilities for Smalltalk
+261266 0.6803312245199069 Inferring Argument Size Relationships with CLP(R)
+570062 0.6539508204111607 Implementing "Object Ownership to Order"
+383471 0.6515590601446682 Connection Analysis: A Practical Interprocedural Heap Analysis for C
